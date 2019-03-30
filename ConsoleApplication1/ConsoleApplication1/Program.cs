@@ -9,6 +9,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriLikne("VINOD KUMAR");
+                        Console.WriLikne("SFSD KUMAR");
+
+                        Console.WriLikne("VINOD DFGFDGD");
+
+                        Console.WriLikne("DGFDG FGD");
+
         }
     }
 }
