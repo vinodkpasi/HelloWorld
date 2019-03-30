@@ -9,12 +9,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriLikne("VINOD KUMAR");
-                        Console.WriLikne("SFSD KUMAR");
+            Console.WriteLine("fghghjg KUMAR");
+            Console.WriteLine("SFSDghjhgj KUMAR");
 
-                        Console.WriLikne("VINOD DFGFDGD");
+            Console.WriteLine("VINODgjhgj DFGFDGD");
 
-                        Console.WriLikne("DGFDG FGD");
+            Console.WriteLine("DGFDG jhgjghjFGD");
 
         }
     }
