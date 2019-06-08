@@ -10,14 +10,14 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriLine("VINOD KUMAR************");
-                        Console.WriLine("SFSD gdfgfgfd");
-                        Console.WriLine("SFSD fdgdfg");
-                        Console.WriLine("SFSD KUdfgdfgdfMAR");
+                        Console.WriteLine("SFSD gdfgfgfd");
+                        Console.WriteLine("SFSD fdgdfg");
+                        Console.WriteLine("SFSD KUdfgdfgdfMAR");
 
-                        Console.WriLine("VINOD DFGFfdgdfgdfgDGD");
-                        Console.WriLine("SFSD KUdfgdfgdfMAR");
+                        Console.WriteLine("VINOD DFGFfdgdfgdfgDGD");
+                        Console.WriteLine("SFSD KUdfgdfgdfMAR");
 
-                        Console.WriLine("DGFDGfgdfgdfgdFGD");////
+                        Console.WriteLine("DGFDGfgdfgdfgdFGD");////
 
         }
     }
