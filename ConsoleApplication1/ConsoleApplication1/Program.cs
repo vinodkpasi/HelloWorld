@@ -9,15 +9,15 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriLikne("VINOD KUMAR************");
-                        Console.WriLikne("SFSD gdfgfgfd");
-                        Console.WriLikne("SFSD fdgdfg");
-                        Console.WriLikne("SFSD KUdfgdfgdfMAR");
+            Console.WriLine("VINOD KUMAR************");
+                        Console.WriLine("SFSD gdfgfgfd");
+                        Console.WriLine("SFSD fdgdfg");
+                        Console.WriLine("SFSD KUdfgdfgdfMAR");
 
-                        Console.WriLikne("VINOD DFGFfdgdfgdfgDGD");
-                        Console.WriLikne("SFSD KUdfgdfgdfMAR");
+                        Console.WriLine("VINOD DFGFfdgdfgdfgDGD");
+                        Console.WriLine("SFSD KUdfgdfgdfMAR");
 
-                        Console.WriLikne("DGFDGfgdfgdfgdFGD");////
+                        Console.WriLine("DGFDGfgdfgdfgdFGD");////
 
         }
     }
