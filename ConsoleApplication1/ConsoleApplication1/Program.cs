@@ -7,8 +7,12 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        static void Hello()
+        {
+        }
         static void Main(string[] args)
         {
+            Hello();
             Console.WriteLine("VIteNOD KUMAR************");
                         Console.WriteLine("SFSD gdfgfgfd");
                         Console.WriteLine("SFSD fdgdfg");
