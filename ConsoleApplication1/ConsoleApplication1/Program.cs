@@ -14,15 +14,8 @@ namespace ConsoleApplication1
         {
             Hello();
             Console.WriteLine("VIteNOD KUMAR************");
-                        Console.WriteLine("SFSD gdfgfgfd");
-                        Console.WriteLine("SFSD fdgdfg");
-                        Console.WriteLine("SFSD KUdfgdfgdfMAR");
-
-                        Console.WriteLine("VINOD DFGFfdgdfgdfgDGD");
-                        Console.WriteLine("SFSD KUdfgdfgdfMAR");
-
-                        Console.WriteLine("DGFDGfgdfgdfgdFGD");////
-
+            Console.WriteLine("Hi...");
+            Console.WriteLine("Hello World!");
         }
     }
 }
