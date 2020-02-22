@@ -15,7 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hi");
             Console.WriteLine("Hello");
             Console.ReadLine();
-            Hello();
+
         }
     }
 }
