@@ -12,11 +12,10 @@ namespace ConsoleApplication1
         }
         static void Main(string[] args)
         {
-            Hello();
-            Console.WriteLine("Vinod");
+            Console.WriteLine("Vinod Kumar");
             Console.WriteLine("Hi...");
-            Console.WriteLine("Hello...");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
