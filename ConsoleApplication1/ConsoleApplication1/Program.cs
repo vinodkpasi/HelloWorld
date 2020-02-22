@@ -13,8 +13,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Hello();
-            Console.WriteLine("VIteNOD KUMAR************");
+            Console.WriteLine("Vinod");
             Console.WriteLine("Hi...");
+            Console.WriteLine("Hello...");
             Console.WriteLine("Hello World!");
         }
     }
