@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Collections.Generic;
 
 namespace ConsoleApplication1
 {
@@ -10,9 +11,11 @@ namespace ConsoleApplication1
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi..");
-            Console.WriteLine("Hello World");
-            Console.Read();
+            Console.WriteLine("Vinod");
+            Console.WriteLine("Hi");
+            Console.WriteLine("Hello");
+            Console.ReadLine();
+
         }
     }
 }
